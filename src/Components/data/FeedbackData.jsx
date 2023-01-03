@@ -3,17 +3,17 @@ const FeedbackData = [
     {
         id: 1,
         rating: 10,
-        text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.Blanditiis sit praesentium soluta rem velit, minus.',
+        text: 'This is may 1st Feedback!.',
     },
     {
         id: 2,
         rating: 9,
-        text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.Blanditiis sit praesentium soluta rem velit, minus.',
+        text: 'This is may 2nd Feedback!.',
     },
     {
         id: 3,
         rating: 8,
-        text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.Blanditiis sit praesentium soluta rem velit, minus.',
+        text: 'This is may 3rd Feedback!.',
     },
 
 ]
